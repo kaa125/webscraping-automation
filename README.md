@@ -1,1 +1,2 @@
-# webscraping-automation
+# Web Scraping Automation using Beautiful Soup and Selenium
+Web scraping is the process of extracting data from websites, and it has become an invaluable tool for various industries and applications, including market research, competitive analysis, data analysis, and more. This project aims to create an automated web scraping system using Beautiful Soup and Selenium, two powerful Python libraries, to efficiently collect data from target websites.
